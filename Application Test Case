@@ -1,0 +1,6 @@
+Main resposibility:
+
+Fetch data from API and display it in your view.
+User should be able to save the particular news as bookmark
+user should be able to search the news
+users should have options to filter the news by country and language
