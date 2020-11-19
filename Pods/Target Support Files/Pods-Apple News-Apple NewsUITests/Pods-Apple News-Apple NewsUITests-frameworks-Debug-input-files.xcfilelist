@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Apple News-Apple NewsUITests/Pods-Apple News-Apple NewsUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ImageLoader/ImageLoader.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
